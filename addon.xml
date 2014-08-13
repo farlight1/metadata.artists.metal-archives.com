@@ -13,7 +13,7 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Download information about your metal from Encyclopaedia Metallum</summary>
     <summary lang="es">Descarga información desde Encyclopaedia Metallum</summary>
-	<summary lang="hu">Encyclopaedia Metallum előadó információk</summary>
+    <summary lang="hu">Encyclopaedia Metallum előadó információk</summary>
     <summary lang="pl">Pobieraj informacje z Encyklopedii Metallum</summary>
     <description lang="en">Encyclopaedia Metallum: The Metal Archives is a website which lists bands from various forms of heavy metal music. Encyclopaedia Metallum attempts to provide comprehensive information on each band, such as a discography, logos, pictures, lyrics, line-ups, biography, trivia and user-submitted reviews. The site also provides a system for submitting bands to the archives, and users are encouraged to use it. The site has 73,000+ bands listed, 70,000+ releases, 1,196,000+ tracks, 52,000+ reviews and 227,000+ registered users. It is one of the top 500 most-visited websites in five countries.</description>
     <description lang="es">Encyclopaedia Metallum: The Metal Archives es un lugar donde encontrar información sobre toda la musica heavy metal. Encyclopaedia Metallum intenta tener toda la información relevante sobre cualquier banda del metal, discografía, logos, imágenes, letras, músicos, biografía y reviews de usuarios. La web tiene un sistema para añadir nuevas bandas por usuarios que mantienen los propios usuarios. Actualmente contiene mas de 73.000 bandas, mas de 170.000 ediciones, mas de 1.196.000 canciones, mas de 52.000 reviews y mas de 227.000 usuarios registrados. Es una de las 500 webs mas visitadas mundialmente.</description>
@@ -22,7 +22,7 @@
     <language></language>
 	<platform>all</platform>
 	<website></website>
-    <source></source>
+    <source>https://github.com/farlight1/metadata.artists.metal-archives.com</source>
     <email></email>
     <forum></forum>
     <license>GPL v2.0</license>
